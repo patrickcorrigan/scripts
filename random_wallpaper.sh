@@ -1,1 +1,1 @@
-feh --randomize --bg-scale /home/patrick/media/pictures/wallpapers/interfacelift
+feh --randomize --bg-fill /home/patrick/media/pictures/wallpapers/current_pool
