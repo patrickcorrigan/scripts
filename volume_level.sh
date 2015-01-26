@@ -17,5 +17,5 @@ if is_muted
 then
     get_volume
 else
-    echo Muted
+    echo Mute
 fi
